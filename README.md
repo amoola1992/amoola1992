@@ -1,4 +1,4 @@
-[![MasterHead]([https://www.fintechscotland.com/wp-content/uploads/2018/11/software-development@2x.png](https://www.git-tower.com/blog/assets/img/default-post-header@1920w.png))](https://rishavchanda.io)
+[![MasterHead](https://www.git-tower.com/blog/assets/img/default-post-header@1920w.png)](https://rishavchanda.io)
 
 
 <h1 align="center">Hi 👋, I'm Amal Mansour</h1>
