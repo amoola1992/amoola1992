@@ -12,7 +12,7 @@
        - uses: jasineri/gitartwork@v1
          with:
             # Use this username's contribution graph  
-            user_name: amoola1992
+            user_name: jasineri
             # Text on contribution graph 
-            text: AMAL MANSOUR
+            text: AMAL
        - uses: jasineri/simple-push-action@v1
