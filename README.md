@@ -1,6 +1,3 @@
-[![MasterHead](https://imgtr.ee/i/og37B)](https://rishavchanda.io)
-
-
 <h1 align="center">Hi 👋, I'm Amal Mansour</h1>
 <h3 align="center">A passionate full stack developer from Makkah</h3>
 <img align="right" alt="Coding" width="400" src="https://s3.amazonaws.com/shecodesio-production/users/avatars/000/020/302/medium/etetre.jpg?1639558481")>
