@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Amal Mansour</h1>
 <h3 align="center">A passionate full stack developer from Makkah</h3>
 <img align="center" alt="Coding" width="400" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif")>
+<img align="center" alt="Coding" width="400" src="https://github.com/amoola1992/amoola1992/blob/4ca4bb97caec4ddd470a2b106313dcc1b1cb22de/Background.gif")>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amoola1992" alt="amoola1992" /></a> </p>
 
